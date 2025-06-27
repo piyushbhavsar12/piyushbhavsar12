@@ -15,12 +15,11 @@
 <p align="center">
   Hi, I'm Piyush, AI ML Engineer & Computer Engineer & Software Developer from India
   <br>
+  Creating Scalable Softwares - Architecting the Impact
   <br>
   🔬 I've completed my Master's in Computer Application.
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  💻 I Write code
+  💻 I Write - Review - Code
   <br>
   📚 I’m currently learning AGI
   <br>
