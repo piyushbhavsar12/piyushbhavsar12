@@ -80,33 +80,33 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 <div align="center">
-  <a href="https://github.com/piyushbhavsar12/Algorithms">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/piyushbhavsar12/piyushbhavsar12">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=piyushbhavsar12&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/piyushbhavsar12/DataStructures">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/piyushbhavsar12/Turkce-Heceleme-CPP">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/piyushbhavsar12/CopyMoveForgeryDetectionWithDCT">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/piyushbhavsar12/python-for-all">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=python-for-all&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/piyushbhavsar12/cpp-openmp-needleman-wunsch">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/piyushbhavsar12/sakhi-api-service">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=sakhi-api-service&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/piyushbhavsar12/javascript-minesweeper">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/piyushbhavsar12/pwa-app">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=pwa-app&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/piyushbhavsar12/sakhi-for-telegram-ai">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=sakhi-for-telegram-ai&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a href="https://github.com/piyushbhavsar12/Career-Coach-Recruitment">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=piyushbhavsar12&repo=Career-Coach-Recruitment&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
