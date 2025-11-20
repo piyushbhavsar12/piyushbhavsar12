@@ -13,7 +13,7 @@
 </h5>
 
 <p align="center">
-  Hi, I'm Piyush — AI/ML Engineer, Computer Engineer and Software Developer from India  
+  Hi, I'm Piyush - AI/ML Engineer, Computer Engineer and Software Developer from India  
   <br>Creating scalable software and architecting impact  
   <br>🔬 Master's in Computer Application  
   <br>💻 I write, review, and build software  
